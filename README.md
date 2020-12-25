@@ -1,4 +1,4 @@
-#NEST - Nested Elements Selector Targeting
+NEST - Nested Elements Selector Targeting
 
 В работе тестирую придуманную методологию nest:
 -root_notation_target  или -root-_target;
