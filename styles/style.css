@@ -139,10 +139,9 @@ a:hover { cursor: pointer; }
 }
 
 
-.-cards-_strip {
-    display: none;
-    background-color: #F26522;
-}
+.-cards-_strip {display: none;}
+
+.-cards-_strip:hover {cursor: pointer;}
 
 .-cards-_strip_c {
     height: 35px;
@@ -186,6 +185,11 @@ a:hover { cursor: pointer; }
     align-items: center;
     background-color: #F26522;
 }
+
+.-cards-_e:hover .-cards-_caption {
+    color: #F26522;
+}
+
 
 /* ---------------------------------------------- */
 .-f_text {
